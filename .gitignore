@@ -1,0 +1,9 @@
+dataset/
+*.csv
+*.parquet
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.pem
